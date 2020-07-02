@@ -36,7 +36,7 @@ body{
     100% {transform: translateX(125vw);}
 }
 .circle{
-    width: 300px; height: 300px; transform-style: preserve-3d; position: absolute; top: 70%; margin: auto;
+    width: 300px; height: 300px; transform-style: preserve-3d; position: fixed; top: 80%; margin-bottom: 10%;
     backface-visibility: visible; animation-name: rotate; animation-duration: var(--ad); animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
