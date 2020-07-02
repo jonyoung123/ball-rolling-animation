@@ -1,7 +1,7 @@
 :root{
     --green: #678d74;
     --blue: #d3a423;
-    --red: #b5b0f0;
+    --red: #678d74;
     --border: hsl(250, 10%, 20%) solid 1px;
     --ad: 6s
 }
